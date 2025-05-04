@@ -1,0 +1,5 @@
+module WechatOpenSDK {
+    umbrella header "WXApi.h"
+    export *
+    module * { export * }
+}
